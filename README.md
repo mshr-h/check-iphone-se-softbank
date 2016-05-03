@@ -1,2 +1,2 @@
-# shiny-example
-example of golang's experimental GUI package 'shiny'
+# Check iPhone SE reservation of Softbank
+
